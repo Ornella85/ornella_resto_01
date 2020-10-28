@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(87, 87, 87);
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    height: 1950px;
+    margin: 0 auto;
+    
+}
+
+.section1{
+    background-image: url(../img/assiette.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    margin-left: 2.5em;
+    margin-top: 2em;
+}
+
+p{ /* taille de l'écriture de tous les p sans distinction*/
+    font-size: 12px;
+    
+}
+
+
+.section1 p{
+    font-size: 12px;
+    margin-right: 1em;
+    padding: 7em;
+}
+
+.section2 img{
+    float: right;
+    margin-top: -100px
+}
+
+.section3 img{
+    float: left;
+    margin-top: -20px;
+}
+
+.section4 img{
+    float: right;
+    margin-top: -0px;
+}
+
+.section5 img{
+    float: left;
+    margin-top: -1px;
+}
+
+
+footer{
+    margin-top: 200px;
+}
+footer img{
+    margin-left: 230px;
+}
+
+header{
+    line-height: 0.5em;
+    padding-top: 13px;
+}
+a{
+    color: rgb(32, 32, 32);
+    text-decoration:none; 
+}
+.sept{
+    line-height: 0.5em;
+    font-size: 30px;
+}
+
+
